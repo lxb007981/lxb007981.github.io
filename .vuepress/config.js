@@ -44,7 +44,12 @@ module.exports = {
         "text": "GitHub",
         "link": "https://github.com/lxb007981",
         "icon": "reco-github"
-      }]
+      },{
+        "text":"Email",
+        "link":"mailto:lxb007981@hotmail.com",
+        "icon": "reco-mail"
+      }
+    ]
     }
     ],
     "sidebar": {
