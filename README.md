@@ -1,0 +1,19 @@
+---
+home: true
+heroText: LU Xinbo's Personal Website
+tagline: Words are flowing out like endless rain into a paper cup...
+# heroImage: /hero.png
+# heroImageStyle: {
+#   maxWidth: '600px',
+#   width: '100%',
+#   display: block,
+#   margin: '9rem auto 2rem',
+#   background: '#fff',
+#   borderRadius: '1rem',
+# }
+bgImageStyle: {
+  height: '450px'
+}
+isShowTitleInHome: false
+actionText: Guide
+actionLink: /views/other/guide
